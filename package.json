@@ -1,0 +1,21 @@
+{
+  "name": "dn-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiandd84/dn-core.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
