@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/nghiandd84/dn-core.git"
   },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
   "author": "",
   "license": "ISC"
 }
