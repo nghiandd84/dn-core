@@ -1,0 +1,6 @@
+export enum APP_ID {
+    USER = 'DN-USER',
+    LANGUAGE = 'DN-LANGUAGE',
+    NOTIFICATION = 'DN-NOTIFICATION',
+    
+}
